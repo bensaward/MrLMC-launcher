@@ -1,0 +1,11 @@
+http://www.minecraftwiki.net/wiki/User:Oxguy3/Minecraft.net_API
+
+Use for checking a login for mc. Probably best to use the HTTPS link for 
+security sakes. Will need to open a socket and send SSL encrypted data 
+to it.
+
+Use GTK+ for the launcher.
+
+2 options for client modding... Either have a predone .lazy hosted 
+somewhere or using the legitimate client copy of minecraft and then 
+modding that.
